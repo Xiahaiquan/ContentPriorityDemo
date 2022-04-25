@@ -1,0 +1,6 @@
+framework module Pods_ContentPriorityDemo {
+  umbrella header "Pods-ContentPriorityDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
